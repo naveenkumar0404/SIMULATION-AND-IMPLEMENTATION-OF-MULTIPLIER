@@ -1,8 +1,9 @@
 SIMULATION AND IMPLEMENTATION OF MULTIPLIER
-**AIM: **
+
+AIM: 
  To simulate and synthesis multiplier using Xilinx ISE.
 
-**APPARATUS REQUIRED:**
+APPARATUS REQUIRED:
 Xilinx 14.7
 Spartan6 FPGA
   
