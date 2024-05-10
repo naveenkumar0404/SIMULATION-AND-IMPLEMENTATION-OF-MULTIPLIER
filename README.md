@@ -126,18 +126,4 @@ OUTPUT WAVEFORM
 RESULT
 
 To simulation 2-bit and 4-bit multiplier are verified successfullly.
-```
-
-
-**Verilog code**
-<<<< type your Verilog code here >>>>>>>
-
-**Output Waveform**
-
-<<< Simulation output waveform paste it here >>>>>
-
-
-**Result**
-
-
 
